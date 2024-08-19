@@ -18,4 +18,6 @@ Nossas velas não são apenas uma fonte de luz, mas um convite para criar moment
 2. **Acenda a chama**: Transforme o ambiente com luz suave e fragrâncias envolventes.
 3. **Aproveite o momento**: Relaxe e aproveite a atmosfera que você criou.
 
+---
+
 🌿 **Vela & Aroma** - Crie momentos que encantam 🌿
