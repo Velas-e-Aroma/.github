@@ -1,12 +1,21 @@
-## Hi there 👋
+# 🕯️ Vela & Aroma
 
-<!--
+🌿 **Velas artesanais com fragrâncias exclusivas e designs únicos** 🌿
 
-**Here are some ideas to get you started:**
+Bem-vindo ao projeto **Vela & Aroma**! Transforme o seu ambiente com nossas velas que combinam aromas encantadores com designs cuidadosamente elaborados. Cada vela é feita à mão, garantindo qualidade e exclusividade em cada peça.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## ✨ Crie Momentos ✨
+
+Nossas velas não são apenas uma fonte de luz, mas um convite para criar momentos especiais. Queremos que cada aroma e cada chama acesa seja parte de uma experiência inesquecível. 
+
+### Funcionalidades
+- **Designs únicos**: Velas que não são apenas funcionais, mas também decorativas.
+- **Fragrâncias exclusivas**: Aromas cuidadosamente selecionados para criar o ambiente perfeito.
+- **Produção artesanal**: Cada vela é feita à mão com atenção aos detalhes.
+
+### Como Usar
+1. **Escolha sua vela**: Encontre o aroma e o design que mais combinam com você.
+2. **Acenda a chama**: Transforme o ambiente com luz suave e fragrâncias envolventes.
+3. **Aproveite o momento**: Relaxe e aproveite a atmosfera que você criou.
+
+🌿 **Vela & Aroma** - Crie momentos que encantam 🌿
